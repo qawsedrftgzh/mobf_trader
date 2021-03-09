@@ -8,3 +8,5 @@ Textures bauerin.png, kuhhaendler.png and bauer_in_sonntagslkeidung.png where do
 Texture wheat_farmer_by_addi.png has been done by Addi and is CC-BY-SA. It is based on Jordachs SAM texture.
 
 Texture for the money/money2 (textures/mobf_trader_money.png) has been created by John1.
+#Why
+As the trader mod is quite dead and contain bugs I tried to fix them and make the mod more actual and bug free.
